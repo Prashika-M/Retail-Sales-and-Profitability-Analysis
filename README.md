@@ -31,7 +31,7 @@ This project analyzes retail sales data to identify revenue drivers, loss-making
 ---
 
 ## 📈 Dashboard Preview
-Dashboard/Dashboard_image.png
+![Dashboard](Dashboard/Dashboard_image.png)
 
 ---
 
