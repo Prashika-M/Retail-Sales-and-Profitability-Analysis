@@ -1,5 +1,6 @@
 /* Revenue by category */
-SELECT category, SUM(sales) AS total_sales
+SELECT category, SUM(sales) AS total_sales,
+SUM(profit) AS total_profit
 FROM SampleSuperstore
 GROUP BY category
 ORDER BY total_sales DESC;
